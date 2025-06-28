@@ -1,0 +1,11 @@
+Login MongoDB
+Email Bucheb13@gmail.com
+Senha: MenoBala
+
+Login Banco de dados
+Cremaria
+Senha MenoBala
+
+Login Admin
+ADMIN_USER=menobala
+ADMIN_PASS=m3n0b4l4
